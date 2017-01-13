@@ -1,0 +1,14 @@
+{
+  "name": "test-chalk",
+  "version": "1.0.0",
+  "description": "Exercise to test npm installation process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew McCrodan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
